@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/lumiere11/go-example/internal/task"
+	"github.com/lumiere11/go-cli-crud/internal/task"
 )
 
 func main() {
